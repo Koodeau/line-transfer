@@ -1,3 +1,4 @@
+<?php
 function space($one)
 {
   if ($one <= 10)
@@ -11,3 +12,4 @@ function space($one)
 }
 $space = space(3);
 echo $space;
+?>
